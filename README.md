@@ -84,3 +84,6 @@ Exploration under uncertainty
 Social mimicry and interaction
 
 Together, these form the minimal requirements for self-awareness in a computational model.
+
+📂 License
+ See LICENSE for details.

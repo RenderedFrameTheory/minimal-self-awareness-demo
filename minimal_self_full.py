@@ -1,3 +1,11 @@
+"""
+Minimal Self Agent (Rendered Frame Theory)
+------------------------------------------
+Implements reinforcement learning, exploration, and social mimicry in a 3×3 world.
+Part of the artifact: Minimal Self in a 3×3 World
+DOI: https://doi.org/10.5281/zenodo.17714387
+"""
+
 import numpy as np
 import random
 from typing import List, Optional

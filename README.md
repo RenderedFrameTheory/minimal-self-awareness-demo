@@ -2,7 +2,7 @@
 
 [![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Minimal%20Self%20Awareness-blue)](https://huggingface.co/spaces/RFTSystems/minimal_self_awareness)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17714387.svg)](https://doi.org/10.5281/zenodo.17714387)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?logo=github)](https://github.com/yourusername/minimal-self-awareness-demo)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?logo=github)](https://github.com/RenderedFrameTheory/minimal-self-awareness-demo)
 
 This repository contains a live Gradio simulation of the **Rendered Frame Theory (RFT) Minimal Self agent** in a 3×3 world.  
 It demonstrates the **minimum requirements for self-awareness** through embodied reinforcement learning, exploration, obstacle stress, and social mimicry.

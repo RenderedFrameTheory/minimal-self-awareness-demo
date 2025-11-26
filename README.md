@@ -14,7 +14,6 @@ A live demonstration of the Rendered Frame Theory (RFT) Minimal Self agent in a 
 ```bash
 pip install -r requirements.txt
 python app.py
-Open the local URL shown in your terminal (e.g., http://127.0.0.1:7860).
 
 Seven stages
 No learning baseline
